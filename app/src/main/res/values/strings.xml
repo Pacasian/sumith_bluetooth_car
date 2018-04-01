@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RC_car</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+</resources>
